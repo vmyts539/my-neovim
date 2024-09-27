@@ -20,4 +20,3 @@ require("lazy").setup({ { import = "vmyts.plugins" }, { import = "vmyts.plugins.
     notify = false,
   },
 })
-

@@ -74,5 +74,5 @@ vim.opt.scrolloff = 10
 -- clipboard
 -- opt.clipboard:append("unnamedplus") -- use system clipboard as default register
 vim.schedule(function()
-	vim.opt.clipboard = "unnamedplus"
+  vim.opt.clipboard = "unnamedplus"
 end)
